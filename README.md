@@ -23,12 +23,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FhDigital&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&icon_color=38bdf8&text_color=e2e8f0&border_color=0284c7&border_radius=20&hide_rank=false&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FhDigital&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&text_color=e2e8f0&border_color=0284c7&border_radius=20" />
+  <!-- Stat utama GitHub, tanpa parameter rank agar lebih stabil -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fhendy&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&icon_color=38bdf8&text_color=e2e8f0&border_color=0284c7&border_radius=20&cache_seconds=0" />
+  
+  <!-- Menampilkan bahasa yang paling banyak digunakan, menyembunyikan HTML/CSS agar fokus ke bahasa pemrograman -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhendy&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&text_color=e2e8f0&border_color=0284c7&border_radius=20&cache_seconds=0" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=FhDigital&theme=tokyonight&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=0ea5e9&sideNums=e2e8f0&currStreakNum=38bdf8&dates=94a3b8&sideLabels=94a3b8&border=0284c7" />
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Fhendy&theme=tokyonight&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=0ea5e9&sideNums=e2e8f0&currStreakNum=38bdf8&dates=94a3b8&sideLabels=94a3b8&border=0284c7" />
 </div>
 
 <div align="center">
@@ -38,7 +42,7 @@
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FhDigital&theme=tokyo-night&bg_color=0d1117&color=e2e8f0&line=0ea5e9&point=38bdf8&area=true&hide_border=false&border_color=0284c7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fhendy&theme=tokyo-night&bg_color=0d1117&color=e2e8f0&line=0ea5e9&point=38bdf8&area=true&hide_border=true&cache_seconds=0" />
 </div>
 
 <div align="center">
@@ -66,7 +70,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FhDigital&label=Profile+Views&color=0ea5e9&style=flat-square" />
+  <!-- Perbaikan: username di sini juga menjadi Fhendy -->
+  <img src="https://komarev.com/ghpvc/?username=Fhendy&label=Profile+Views&color=0ea5e9&style=flat-square" />
 </p>
 
 <div align="center">
