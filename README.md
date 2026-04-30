@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=2000&pause=300&color=0ea5e9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%7C+Flutter+%7C+Java+%7C+PHP;MySQL+%7C+JavaScript+%7C+Git+%7C+GitHub;Dart+%7C+Figma+%7C+VS+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=2000&pause=300&color=0ea5e9&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Laravel+%7C+Flutter+%7C+React+%7C+Java+%7C+PHP;MySQL+%7C+JavaScript+%7C+Dart+%7C+Git+%7C+GitHub;Figma+%7C+VS+Code+%7C+Mobile+%7C+Web+Dev" />
 </div>
 
 <div align="center">
@@ -12,8 +12,39 @@
 
 ### 🛠️ Tech Stack
 
+<br/>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,php,laravel,flutter,dart,git,github,mysql,figma,vscode&theme=dark" />
+  <h3>🔙 Backend Development</h3>
+  <img src="https://skillicons.dev/icons?i=java,php,laravel&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🎨 Frontend Development</h3>
+  <img src="https://skillicons.dev/icons?i=javascript,react&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📱 Mobile Development</h3>
+  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🗄️ Database</h3>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🔧 Version Control & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 </div>
 
 <div align="center">
