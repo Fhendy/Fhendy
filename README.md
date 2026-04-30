@@ -44,6 +44,8 @@ class Fhendy {
 $dev = new Fhendy();
 echo $dev->getInfo();
 
-<div align="center"> <h2>🚀 Tech Stack</h2> <img src="https://skillicons.dev/icons?i=java,javascript,php,laravel,flutter,git,github&theme=dark" /> </div> <div align="center"> <h3>🛠 Tools & Environment</h3> <img src="https://skillicons.dev/icons?i=mysql,vscode,androidstudio,postman&theme=dark" /> </div>
+<div align="center"> <h2>🚀 Tech Stack</h2> <img src="https://skillicons.dev/icons?i=java,javascript,php,laravel,flutter,git,github&theme=dark" /> </div> 
+
+<div align="center"> <h3>🛠 Tools & Environment</h3> <img src="https://skillicons.dev/icons?i=mysql,vscode,androidstudio,postman&theme=dark" /> </div>
 
 <div align="center"> <h2>📊 GitHub Stats</h2> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhendy&layout=compact&theme=tokyonight" /> </div>
