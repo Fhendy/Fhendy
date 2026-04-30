@@ -17,7 +17,28 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FhDigital&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&text_color=e2e8f0&border_color=0284c7&border_radius=20" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3">
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FhDigital&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&icon_color=38bdf8&text_color=e2e8f0&border_color=0284c7&border_radius=20&hide_rank=false&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FhDigital&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&text_color=e2e8f0&border_color=0284c7&border_radius=20" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=FhDigital&theme=tokyonight&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=0ea5e9&sideNums=e2e8f0&currStreakNum=38bdf8&dates=94a3b8&sideLabels=94a3b8&border=0284c7" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3">
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FhDigital&theme=tokyo-night&bg_color=0d1117&color=e2e8f0&line=0ea5e9&point=38bdf8&area=true&hide_border=false&border_color=0284c7" />
 </div>
 
 <div align="center">
