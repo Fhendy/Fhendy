@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=2000&pause=300&color=0ea5e9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%7C+Flutter+%7C+Java+%7C+PHP;MySQL+%7C+JavaScript+%7C+Git+%7C+GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=2000&pause=300&color=0ea5e9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%7C+Flutter+%7C+Java+%7C+PHP;MySQL+%7C+JavaScript+%7C+Git+%7C+GitHub;Dart+%7C+Figma+%7C+VS+Code" />
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,php,laravel,flutter,git,github,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,php,laravel,flutter,dart,git,github,mysql,figma,vscode&theme=dark" />
 </div>
 
 <div align="center">
@@ -23,13 +23,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Stat utama GitHub, tanpa parameter rank agar lebih stabil -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fhendy&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&icon_color=38bdf8&text_color=e2e8f0&border_color=0284c7&border_radius=20&cache_seconds=0" />
   
-  <!-- Menampilkan bahasa yang paling banyak digunakan, menyembunyikan HTML/CSS agar fokus ke bahasa pemrograman -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhendy&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&text_color=e2e8f0&border_color=0284c7&border_radius=20&cache_seconds=0" />
 </div>
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3">
@@ -66,7 +63,6 @@
 </div>
 
 <p align="center">
-  <!-- Perbaikan: username di sini juga menjadi Fhendy -->
   <img src="https://komarev.com/ghpvc/?username=Fhendy&label=Profile+Views&color=0ea5e9&style=flat-square" />
 </p>
 
