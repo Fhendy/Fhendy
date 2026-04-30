@@ -30,10 +30,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhendy&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&text_color=e2e8f0&border_color=0284c7&border_radius=20&cache_seconds=0" />
 </div>
 
-<div align="center">
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Fhendy&theme=tokyonight&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=0ea5e9&sideNums=e2e8f0&currStreakNum=38bdf8&dates=94a3b8&sideLabels=94a3b8&border=0284c7" />
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3">
