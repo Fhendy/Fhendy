@@ -31,20 +31,12 @@ Saya adalah siswa Teknik Komputer dengan spesialisasi menuju **AI Engineering**.
 | SMP | SMP N 3 Sragi | 2021 - 2024 |
 | SMK | SMK Muhammadiyah Kesesi | 2024 - 2027 |
 
-> ✏️ *Perkiraan tahun disesuaikan berdasarkan masuk SMK tahun 2024 (mundur 3 tahun per jenjang). Silakan koreksi jika ada perbedaan.*
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3">
 </div>
 
 ### 🛠️ Skill
 
-<br/>
-
-<div align="center">
-  <h3>🤖 AI & Machine Learning</h3>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
-</div>
 <br/>
 
 <div align="center">
@@ -88,7 +80,8 @@ Saya adalah siswa Teknik Komputer dengan spesialisasi menuju **AI Engineering**.
 | Website Sekolahan | Website profil sekolah modern & informatif. | Laravel, PHP, MySQL | [Repo](https://github.com/Fhendy/sekolah-app) |
 | Exam System | Sistem ujian online dengan monitoring & keamanan tinggi. | Laravel, PHP, MySQL | [Repo](https://github.com/Fhendy/exam-system) |
 | Organisasi Manajemen | Sistem manajemen data organisasi. | Laravel, PHP, MySQL | [Repo](https://github.com/Fhendy/organization-management) |
-| PhotoBooth | Aplikasi photobooth digital. | Laravel, MySQL | [Repo](https://github.com/Fhendy/photobooth) |
+| PhotoBooth | Aplikasi photobooth digital. | Laravel, MySQL | - |
+| KosLife | Platform manajemen kos-kosan. | Laravel, MySQL, JavaScript | [Repo](https://github.com/Fhendy/koslife) |
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3">
@@ -97,9 +90,9 @@ Saya adalah siswa Teknik Komputer dengan spesialisasi menuju **AI Engineering**.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fhendy&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&icon_color=38bdf8&text_color=e2e8f0&border_color=0284c7&border_radius=20&cache_seconds=0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fhendy&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&icon_color=38bdf8&text_color=e2e8f0&border_color=0284c7&border_radius=20" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhendy&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&text_color=e2e8f0&border_color=0284c7&border_radius=20&cache_seconds=0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhendy&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&text_color=e2e8f0&border_color=0284c7&border_radius=20" />
 </div>
 
 <div align="center">
@@ -109,7 +102,7 @@ Saya adalah siswa Teknik Komputer dengan spesialisasi menuju **AI Engineering**.
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fhendy&theme=tokyo-night&bg_color=0d1117&color=e2e8f0&line=0ea5e9&point=38bdf8&area=true&hide_border=true&cache_seconds=0" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fhendy&theme=tokyo-night&bg_color=0d1117&color=e2e8f0&line=0ea5e9&point=38bdf8&area=true&hide_border=true" />
 </div>
 
 <div align="center">
