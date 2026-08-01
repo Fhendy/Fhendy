@@ -12,9 +12,9 @@
 
 ### 👋 Tentang Saya
 
-Halo! Saya **Fhendy Heru Priwidyanto**, seorang **AI Engineer** yang senang membangun sistem cerdas dan aplikasi berbasis teknologi terkini. Saya memiliki latar belakang pengembangan web dan mobile, dan kini fokus mengembangkan solusi berbasis *Artificial Intelligence* & *Machine Learning*, mulai dari eksplorasi data, pelatihan model, hingga integrasi AI ke dalam aplikasi nyata.
+Saya adalah siswa Teknik Komputer dengan spesialisasi menuju **AI Engineering**. Saya berfokus pada pengembangan perangkat lunak yang tidak hanya fungsional, tetapi juga cerdas dan adaptif — menciptakan pengalaman digital yang responsif terhadap data dan konteks pengguna.
 
-- 🔭 Sedang mengerjakan proyek berbasis AI & integrasi model machine learning
+- 💼 Sedang magang di **PT USSI BATIK**
 - 🌱 Sedang memperdalam ilmu Machine Learning, Deep Learning, dan NLP
 - 👯 Terbuka untuk kolaborasi di proyek AI, Web, maupun Mobile
 - ⚡ Fun fact: suka belajar hal baru di bidang teknologi setiap hari
@@ -27,10 +27,11 @@ Halo! Saya **Fhendy Heru Priwidyanto**, seorang **AI Engineer** yang senang memb
 
 | Jenjang | Institusi | Tahun |
 |---|---|---|
-| [Jenjang Pendidikan] | [Nama Sekolah/Universitas] | [Tahun Masuk - Tahun Lulus] |
-| [Jenjang Pendidikan] | [Nama Sekolah/Universitas] | [Tahun Masuk - Tahun Lulus] |
+| SD | SD N 1 Sumubkidul | 2015 - 2021 |
+| SMP | SMP N 3 Sragi | 2021 - 2024 |
+| SMK | SMK Muhammadiyah Kesesi | 2024 - 2027 |
 
-> ✏️ *Silakan sesuaikan tabel di atas dengan riwayat pendidikan Anda yang sebenarnya.*
+> ✏️ *Perkiraan tahun disesuaikan berdasarkan masuk SMK tahun 2024 (mundur 3 tahun per jenjang). Silakan koreksi jika ada perbedaan.*
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3">
@@ -83,11 +84,11 @@ Halo! Saya **Fhendy Heru Priwidyanto**, seorang **AI Engineer** yang senang memb
 
 | Nama Project | Deskripsi Singkat | Tech Stack | Link |
 |---|---|---|---|
-| [Nama Project 1] | [Deskripsi singkat project, misalnya: sistem prediksi menggunakan machine learning] | Python, TensorFlow | [Link Repo] |
-| [Nama Project 2] | [Deskripsi singkat project] | Laravel, MySQL | [Link Repo] |
-| [Nama Project 3] | [Deskripsi singkat project] | Flutter, Dart | [Link Repo] |
-
-> ✏️ *Silakan ganti dengan project-project Anda yang sebenarnya beserta link repository-nya.*
+| E-Learning System | Platform pembelajaran online modern untuk sekolah & kursus. | Laravel, PHP, JavaScript, MySQL | [Repo](https://github.com/Fhendy/e-learning-system) |
+| Website Sekolahan | Website profil sekolah modern & informatif. | Laravel, PHP, MySQL | [Repo](https://github.com/Fhendy/sekolah-app) |
+| Exam System | Sistem ujian online dengan monitoring & keamanan tinggi. | Laravel, PHP, MySQL | [Repo](https://github.com/Fhendy/exam-system) |
+| Organisasi Manajemen | Sistem manajemen data organisasi. | Laravel, PHP, MySQL | [Repo](https://github.com/Fhendy/organization-management) |
+| PhotoBooth | Aplikasi photobooth digital. | Laravel, MySQL | [Repo](https://github.com/Fhendy/photobooth) |
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3">
