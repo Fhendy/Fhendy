@@ -15,9 +15,7 @@
 Saya adalah siswa Teknik Komputer dengan spesialisasi menuju **AI Engineering**. Saya berfokus pada pengembangan perangkat lunak yang tidak hanya fungsional, tetapi juga cerdas dan adaptif — menciptakan pengalaman digital yang responsif terhadap data dan konteks pengguna.
 
 - 💼 Sedang magang di **PT USSI BATIK**
-- 🌱 Sedang memperdalam ilmu Machine Learning, Deep Learning, dan NLP
-- 👯 Terbuka untuk kolaborasi di proyek AI, Web, maupun Mobile
-- ⚡ Fun fact: suka belajar hal baru di bidang teknologi setiap hari
+- 🌱 Sedang memperdalam ilmu Programming
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3">
