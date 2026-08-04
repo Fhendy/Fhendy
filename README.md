@@ -87,10 +87,19 @@ Saya adalah siswa Teknik Komputer dengan spesialisasi menuju **AI Engineering**.
 
 ### 📊 GitHub Stats
 
+<!--
+  CATATAN: instance publik github-readme-stats.vercel.app dipakai bersama
+  oleh ribuan pengguna dan sering kena rate limit sehingga gambar tampil
+  sebagai ikon rusak. Parameter &cache_seconds=1800 di bawah membantu
+  browser/GitHub menyimpan hasil render yang valid lebih lama supaya lebih
+  jarang menyentuh limit. Untuk solusi permanen, deploy instance sendiri:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+-->
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fhendy&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&icon_color=38bdf8&text_color=e2e8f0&border_color=0284c7&border_radius=20" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fhendy&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&icon_color=38bdf8&text_color=e2e8f0&border_color=0284c7&border_radius=20&cache_seconds=1800" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhendy&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&text_color=e2e8f0&border_color=0284c7&border_radius=20" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhendy&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&text_color=e2e8f0&border_color=0284c7&border_radius=20&cache_seconds=1800" />
 </div>
 
 <div align="center">
